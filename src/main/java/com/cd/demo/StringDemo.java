@@ -23,7 +23,7 @@ public class StringDemo {
 	@Test
 	public void addOrUpadate() {
 		
-		redisTemplate.boundValueOps("age").set("666666");
+		redisTemplate.boundValueOps("age").set("6666667777");
 	}
 
 	/**
