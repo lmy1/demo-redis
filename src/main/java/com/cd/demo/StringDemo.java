@@ -26,6 +26,10 @@ public class StringDemo {
 		redisTemplate.boundValueOps("age").set("6666667777");
 	}
 
+    public static void main(String[] args) {
+		System.out.println("我是git-test远程代码");
+    }
+
 	/**
 	 * 删除
 	 */
